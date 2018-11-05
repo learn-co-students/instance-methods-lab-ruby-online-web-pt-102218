@@ -1,3 +1,4 @@
+rspec
 # Instance Methods Lab Ruby
 
 ## Objectives
